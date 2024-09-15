@@ -1,0 +1,17 @@
+Za koliko elementov zelite testirati hitrost seznama?
+100000
+Cas vstavljanja 100000 elementov v glavo seznama: 11043 mikrosekund.
+Cas potreben za vsoto vseh kljucev v seznamu: 1484 mikrosekund.
+Cas potreben za vstavljanje na prvo mesto v polju: 8344432 mikrosekund.
+Cas potreben za racunanje vsote vrednosti v polju: 187 mikrosekund.
+Cas potreben za vstavljanje na zadnje mesto v polju: 154 mikrosekund.
+Vsota seznama: 5000050000
+Vsota polja: 5000050000
+
+
+seznam je primernejsi za vstavljanje vrednosti na začetek (glavo) v primerjavi s poljem. Razen za manjše vrednosti(npr. za 10 elementov je vstavlanje v polje hitrejše kot pa v seznam nato pa razlika eksponentno narašča). to je posledica tega da seznamu ni potrebno premikati vrednosti.
+
+računanje vsote vseh vrednosti v polju vzame približno 10-krat manj časa kot v seznamu, saj lahko v polju dostopamo do elementov preko indeksov .
+
+vstavljanje vrednosti na konec polja je veliko hitrejše kot vstavlanje vrednosti v seznam.
+

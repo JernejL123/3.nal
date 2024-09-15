@@ -1,0 +1,3 @@
+C:/Users/jerne/OneDrive/Namizje/FERI_VAJE/2. semester/APS/3.nal/cmake-build-debug/CMakeFiles/3_nal.dir
+C:/Users/jerne/OneDrive/Namizje/FERI_VAJE/2. semester/APS/3.nal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jerne/OneDrive/Namizje/FERI_VAJE/2. semester/APS/3.nal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
